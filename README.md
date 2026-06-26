@@ -44,8 +44,8 @@ To analyze financial and demographic data and predict customer creditworthiness 
 - Seaborn
 
 ## 📁 Files
- Credit_Scoring_Mode.ipynb
- credit_scoring_model.pkl
+- Credit_Scoring_Mode.ipynb
+- credit_scoring_model.pkl
 
 
 # 📌 PROJECT 2: HEART DISEASE PREDICTION MODEL
@@ -89,8 +89,8 @@ To predict the likelihood of heart disease based on patient clinical and medical
 - Seaborn
 
 ## 📁 Files
- Disease_Prediction_Model.ipynb
- disease_prediction_model.pkl
+- Disease_Prediction_Model.ipynb
+- disease_prediction_model.pkl
 
 
 # 📌 PROJECT 3: HANDWRITTEN CHARACTER RECOGNITION (CNN)
@@ -139,7 +139,7 @@ To build a Convolutional Neural Network (CNN) model that classifies handwritten 
 
 
 ## 📁 Files
- Handwritten_Character_Recognition.ipynb  
+- Handwritten_Character_Recognition.ipynb  
 
 
 # 🔄 MACHINE LEARNING / DEEP LEARNING WORKFLOW
